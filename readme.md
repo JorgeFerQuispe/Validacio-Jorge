@@ -1,4 +1,4 @@
-#Projecte1_JorgeFernández
+#VALIDACIÓ
 
 validació del mp08, git amb  github
 
